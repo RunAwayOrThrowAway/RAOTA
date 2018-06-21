@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Thomas Gray - A Tribute</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div id="main">
+	<div id="title">
+		<h1>Thomas Gray</h1>
+	</div>
+	<div id=img-div>
+		<img class="center-image" id="image" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/PortraitThomasGrayByJohnGilesEccart1747to1748.jpg">
+		<h5 id="img-caption">A portrait of Thomas Gray, by John Giles Eccardt</h5>
+	</div>
+	<div id="tribute-info">
+		<h2>Biography<h2>
+			<h3>Born in 1716, Thomas Gray rose to prominence with his poetry, eventually becoming one of the most important poets of the eighteenth-century.</h3>
+		<h2> Works of Thomas Gray</h2>
+		<ul id="works">
+			<li>The Bard: A Pindaric Ode</li>
+			<li>Elegy Written in a Country Churchyard</li>
+			<li>Ode on a Distant Prospect of Eton College</li>
+			<li>Ode on the Death of a Favourite Cat Drowned in a Tub of Goldfishes</li>
+			<li>Ode on the Spring</li>
+			<li>On the Death of Richard West</li>
+			<li>The Progress of Poesy: A Pindaric Ode</li>
+		</ul>
+		<h2>For more information on Thomas Gray, please visit <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Thomas_Gray">Wikipedia</a>.
+	</div>
+</div>
+</body>
+
+</html>
